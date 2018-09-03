@@ -163,5 +163,6 @@ public class EarthquakeActivity extends AppCompatActivity implements LoaderCallb
         }
 
         return super.onOptionsItemSelected(item);
+        //test upload;
     }
 }
